@@ -1,0 +1,1 @@
+This is a dummy webpage to learn basics of HTML, CSS, jquery, javascript and various plugins provided by jquery eg. Cycle and fancybox.
